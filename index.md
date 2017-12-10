@@ -1,37 +1,84 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<title>我的第二頁</title>
+</head>
+<body background="333.jpg">
 
-You can use the [editor on GitHub](https://github.com/kionwang/1061210/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<a href="index.html">連到我的首頁 </a>
+<p>
+<a href="3rd.html">連到第三頁 </a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+  
+</body>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</html>
 
-```markdown
-Syntax highlighted code block
+<html>
+<head>
+<title>我的第三頁</title>
+</head>
+<body background="444.jpg">
 
-# Header 1
-## Header 2
-### Header 3
+<a href="index.html">連到我的首頁 </a>
+<p>
+<a href="2nd.html">連到第二頁 </a>
+ 
+</body>
+  
+</html>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
 
-**Bold** and _Italic_ and `Code` text
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
 
-[Link](url) and ![Image](src)
-```
+a img {
+	border:none;
+}
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>
+<html>
+<head>
+<title>我的首頁</title>
+</head>
+<body background="222.jpg">
+<div>
+<embed src="123.MP3" width=”100” height=”50” loop=”true” autostart=”true“>
+</div>
+ 
 
-### Jekyll Themes
+<a href="2nd.html">連到第二頁 </a>
+<p>
+<a href="3rd.html">連到第三頁 </a>
+ 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kionwang/1061210/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</body>
 
-### Support or Contact
+</html>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  
+
