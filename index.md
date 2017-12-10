@@ -2,7 +2,7 @@
 <head>
 <title>我的第三頁</title>
 </head>
-<body background="444.jpg">
+<body background="333.JPF">
 
 <a href="index.html">連到我的首頁 </a>
 <p>
